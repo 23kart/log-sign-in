@@ -111,7 +111,7 @@ export default function LoginPage(){
                                 :null
                                 }
                                 </span>
-                                <input  type="submit" className="btn btn-login float-right"   value="Login" />
+                                <input  type="submit" className="btn btn-login float"   value="Login" />
                             </div>
                             <div className="clearfix"></div>
                             <div className="form-group">
